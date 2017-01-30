@@ -1,14 +1,10 @@
-/*
+﻿/*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
 package car;
 
-/**
- *
- * @author ArmmyUpBandwitdh
- */
 public class Car  implements Vrhicle{
     //รถเป็นซับเซตของยานพาหนะ  เวลาที่ implements จะต้องประกาศ method ที่สร้างไว้ใน interface ด้วย
      int yearModel; // ปีที่สร้าง
